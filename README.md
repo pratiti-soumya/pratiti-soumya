@@ -93,4 +93,4 @@ Feel free to reach out to me via LinkedIn or check out my work on Tableau Public
 ---
 
 Pratiti Soumya  
-pratitisoumya@gmail.com | (213) 550-8192
+

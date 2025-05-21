@@ -2,7 +2,7 @@
 
 # Pratiti Soumya
 
-Welcome to my GitHub profile! I am a passionate data analyst with over 7 years of experience in transforming complex data into actionable insights. My expertise lies in using various data analysis and visualization tools to help organizations make informed strategic decisions.
+Welcome to my GitHub profile! I am a passionate data scientist with over 7 years of experience in transforming complex data into actionable insights. 
 
 ## About Me
 

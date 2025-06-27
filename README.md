@@ -4,6 +4,7 @@
 🔍 Senior Data Analyst/ Data Scientist | Python | Machine Learning | A/B Testing | Business Insights | Data Storytelling  
 
 I'm a data professional with 8+ years of experience turning raw data into actionable insights across industries. My background spans analytics, predictive modeling, and dashboard development to solve real-world problems.
+
 ---
 
 ## 💡 What I Do

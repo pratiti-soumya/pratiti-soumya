@@ -9,10 +9,10 @@ I'm a data professional with 8+ years of experience turning raw data into action
 
 ## 💡 What I Do
 
-- 🤖 **Applied Data Science** – Regression, classification, SHAP analysis, predictive modeling  
-- 🧪 **Experimentation** – A/B testing, hypothesis design, z-tests, Bayesian inference  
-- 📊 **Analytics & BI** – Customer segmentation, performance dashboards, KPI frameworks  
-- 🛠️ **Tech Stack** – Python (Pandas, scikit-learn, SHAP, Seaborn), SQL, Tableau, Power BI, Excel  
+- 🤖 **Applied Data Science** : Regression, classification, SHAP analysis, predictive modeling  
+- 🧪 **Experimentation** : A/B testing, hypothesis design, z-tests, Bayesian inference  
+- 📊 **Analytics & BI** : Customer segmentation, performance dashboards, KPI frameworks  
+- 🛠️ **Tech Stack** : Python (Pandas, scikit-learn, SHAP, Seaborn), SQL, Tableau, Power BI, Excel  
 
 ---
 
@@ -34,9 +34,9 @@ I'm a data professional with 8+ years of experience turning raw data into action
 
 ## 🧭 Professional Experience
 
-- **Southern California Edison** – Automated KPI reporting, resolved 150+ monthly data issues using SQL and Power BI.  
-- **William Morris Endeavor (WME)** – Streamlined financial reporting using SQL and dashboards, enabling faster decision-making.  
-- **Intuit | Ford** – Supported customer success and architecture teams with data-driven insights and scalable solutions.  
+- **Southern California Edison** - Automated KPI reporting, resolved 150+ monthly data issues using SQL and Power BI.  
+- **William Morris Endeavor (WME)** - Streamlined financial reporting using SQL and dashboards, enabling faster decision-making.  
+- **Intuit | Ford** - Supported customer success and architecture teams with data-driven insights and scalable solutions.  
 
 
 ### Education

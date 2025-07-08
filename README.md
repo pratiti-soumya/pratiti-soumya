@@ -34,9 +34,19 @@ I'm a data professional with 8+ years of experience turning raw data into action
 
 ## 🧭 Professional Experience
 
-- **Southern California Edison** - Automated KPI reporting, resolved 150+ monthly data issues using SQL and Power BI.  
-- **William Morris Endeavor (WME)** - Streamlined financial reporting using SQL and dashboards, enabling faster decision-making.  
-- **Intuit | Ford** - Supported customer success and architecture teams with data-driven insights and scalable solutions.  
+- **Southern California Edison (SCE)**  
+  Modeled crew workload and trimming backlog as time series in Python to forecast peak load and improve resource planning.  
+  Deployed 10+ automated Power BI dashboards to monitor trimming backlog and crew efficiency.  
+  Cleaned and processed 150K+ records/month using SQL, reducing reporting errors by 70%.  
+
+- **William Morris Endeavor (WME)**  
+  Built unsupervised clustering models on deal attributes to identify cross-segment matches, increasing qualified outreach by 35%.  
+  Developed supervised regression models to predict client revenue; prioritized high-ROI talent, lifting qualified deals by 12%.  
+  Cleaned and transformed 700K+ records using SQL to support segmentation, modeling pipelines, and opportunity forecasting.  
+
+- **Intuit, Inc. | Ford Motor Company**  
+  At Intuit, supported global KPI alignment with Tableau dashboards analyzing 13.6M records across 16 KPIs.  
+  At Ford, designed enterprise-level data architecture models to align technical solutions with business objectives.
 
 
 ### Education

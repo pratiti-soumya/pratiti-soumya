@@ -75,7 +75,7 @@ I'm a data professional with 8+ years of experience turning raw data into action
 
 - 💼 [LinkedIn](https://linkedin.com/in/pratiti-soumya)  
 - 🧾 [Portfolio](https://datascienceportfol.io/prati)  
-- 🗞️ [Medium Articles](https://medium.com/@your-handle-here)  
+- 🗞️ [Medium Articles](https://medium.com/@pratitisoumya)  
 - 📬 Email: pratitisoumya11@outlook.com  
 
 

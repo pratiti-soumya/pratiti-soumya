@@ -1,22 +1,30 @@
 # 👋 Hi, I'm Pratiti Soumya
 
 🎓 UCLA Anderson MSBA | 🎓 MBA in Marketing  
-🔍 Senior Data Analyst/ Data Scientist | Python | Machine Learning | A/B Testing | Business Insights | Data Storytelling  
+🔍 Senior Data Analyst/ Data Scientist | SQL | Python | Tableau / Power BI | Machine Learning | Business Insights | Data Storytelling  
 
-I'm a data professional with 8+ years of experience turning raw data into actionable insights across industries. My background spans analytics, predictive modeling, and dashboard development to solve real-world problems.
+I'm a data professional with 8+ years of experience turning raw data into actionable insights across industries. My background spans analytics, building SQL-driven reporting systems, executive dashboards, KPI frameworks, and predictive modeling to solve real-world problems.
 
 ---
 
 ## 💡 What I Do
 
+- **📊 Business Intelligence & Dashboards**: Executive dashboards, KPI reporting, Power BI, Tableau, SSRS, and Google Data Studio
+- **🧮 SQL & Data Validation**: SQL transformation, KPI logic, reconciliation checks, data quality checks, and reporting consistency
+- **🔄 Data Integration & Reporting Workflows**: Source-to-report validation, Snowflake-based analytics workflows, recurring reporting datasets, and refresh processes
+- **🧭 Business Requirement Translation**: Turning business questions into datasets, dashboards, metrics, and actionable reporting solutions
+
 - 🤖 **Applied Data Science** : Regression, classification, SHAP analysis, predictive modeling  
-- 🧪 **Experimentation** : A/B testing, hypothesis design, z-tests, Bayesian inference  
-- 📊 **Analytics & BI** : Customer segmentation, performance dashboards, KPI frameworks  
-- 🛠️ **Tech Stack** : Python (Pandas, scikit-learn, SHAP, Seaborn), SQL, Tableau, Power BI, Excel  
+- 🧪 **Experimentation** : A/B testing, hypothesis design, z-tests, Bayesian inference   
 
 ---
 
 ## 🔬 Featured Projects
+
+- **Executive AI Chatbot Performance Dashboard**  
+  Developed a Tableau dashboard to analyze chatbot resolution rate, escalation rate, sentiment trends, response time, and version performance. Used SQL-based cleanup and KPI validation to support operational efficiency and customer experience analysis.
+ 
+  *Focus: Tableau, SQL, KPI validation, customer experience analytics, executive reporting*
 
 - **A/B Testing for Marketing Campaign**  
   Simulated a 10,000-user email funnel to test subject lines and CTAs. Used z-tests and Bayesian inference to evaluate lift and confidence.  
@@ -35,14 +43,10 @@ I'm a data professional with 8+ years of experience turning raw data into action
 ## 🧭 Professional Experience
 
 - **Southern California Edison (SCE)**  
-  Modeled crew workload and trimming backlog as time series in Python to forecast peak load and improve resource planning.  
-  Deployed 10+ automated Power BI dashboards to monitor trimming backlog and crew efficiency.  
-  Cleaned and processed 150K+ records/month using SQL, reducing reporting errors by 70%.  
+  Improved data accuracy by 70% by developing SQL validation checks for record counts, statuses, dates, duplicates, KPI logic, and reconciliation across SSRS, Excel, and Power BI outputs  
 
 - **William Morris Endeavor (WME)**  
-  Built unsupervised clustering models on deal attributes to identify cross-segment matches, increasing qualified outreach by 35%.  
-  Developed supervised regression models to predict client revenue; prioritized high-ROI talent, lifting qualified deals by 12%.  
-  Cleaned and transformed 700K+ records using SQL to support segmentation, modeling pipelines, and opportunity forecasting.  
+  Standardized financial reporting data across systems, reducing reporting cycle time by 65%+ and improving reporting consistency.
 
 - **Intuit, Inc. | Ford Motor Company**  
   At Intuit, supported global KPI alignment with Tableau dashboards analyzing 13.6M records across 16 KPIs.  

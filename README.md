@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pratiti Soumya
 
 🎓 UCLA Anderson MSBA | 🎓 MBA in Marketing  
-🔍 Senior Data Analyst/ Data Scientist | SQL | Python | Tableau / Power BI | Machine Learning | Business Insights | Data Storytelling  
+🔍 Senior Data Analyst | SQL | Python | Tableau / Power BI | Machine Learning | Business Insights | Data Storytelling  
 
 I'm a data professional with 8+ years of experience turning raw data into actionable insights across industries. My background spans analytics, building SQL-driven reporting systems, executive dashboards, KPI frameworks, and predictive modeling to solve real-world problems.
 
